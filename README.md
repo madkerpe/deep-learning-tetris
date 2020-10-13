@@ -6,9 +6,8 @@ The model can't get any prior information about the game it is playing, only the
 Using Keras and Colab to train the model.
 
 <p float="left">
-  <img src="/Captured_1.gif" width="330" />
-  <img src="/Captured_2.gif" width="330" /> 
-  <img src="/Captured_3.gif" width="330" />
+  <img src="/Captured_1.gif" width="240" />
+  <img src="/Captured_2.gif" width="240" /> 
 </p>
 
 ![](Screenshot_1.png)
