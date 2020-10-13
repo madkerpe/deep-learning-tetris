@@ -4,5 +4,10 @@ An attempt at playing tetris using deep Q-Learning but with a lot of restriction
 
 Using Keras and Colab to train the model.
 
-![](Captured_1.gif)
+<p float="left">
+  <img src="/Captured_1.gif" width="250" />
+  <img src="/Captured_1.gif" width="250" /> 
+  <img src="/Captured_1.gif" width="250" />
+</p>
+
 ![](Screenshot_1.png)
