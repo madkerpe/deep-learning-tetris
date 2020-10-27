@@ -3,6 +3,8 @@
 An attempt at playing tetris using ONLY a deep Q-Learning but with a lot of restrictions. For the course "Deep Learning" @Ugent.
 The model can't get any prior information about the game it is playing, only the score.
 
+The results of the final model are restricted by the training time that colab provides.
+
 Using Keras and Colab to train the model.
 
 <p float="left">
